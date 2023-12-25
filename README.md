@@ -1,3 +1,3 @@
 # dashboard
 
-http://dashboard.com/
+https://nehapokhariya.github.io/dashboard/
